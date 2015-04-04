@@ -1,0 +1,19 @@
+{
+  "name": "GLSL-SyntaxHighlight-Brackets",
+  "version": "0.1.0",
+  "description": "Enables syntax highlighting for GLSL",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AliHammoud/GLSL-SyntaxHighlight-Brackets.git"
+  },
+  "author": "Ali Hammoud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AliHammoud/GLSL-SyntaxHighlight-Brackets/issues"
+  },
+  "homepage": "https://github.com/AliHammoud/GLSL-SyntaxHighlight-Brackets"
+}
